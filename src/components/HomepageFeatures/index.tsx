@@ -31,12 +31,12 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Prevenção é a chave da duração',
+    title: 'Prevenção é a chave da duração!',
     Svg: require('@site/static/img/multiple_services.svg').default,
     description: (
       <>
-        O seu carro esta a funcionar bem? venha fazer uma revisao de rotina parfa que tudo se mantenha em bom funcionamento.
-        o segredo para manter um carro em bom estado e fazer revisoes frequantemente.
+        Venha fazer uma revisão de rotina parga que tudo se mantenha em bom funcionamento.
+        O segredo para manter um carro em bom estado e fazer revisões frequentemente em bom estado e fazer revisões frequentemente.
       </>
     ),
   },
