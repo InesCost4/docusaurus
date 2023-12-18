@@ -1,17 +1,26 @@
-endi:
+ines:
   name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+  title: CTeSP Tecnologias Informáticas 
+  url: https://github.com/InesCost4
+  image_url: https://github.com/InesCost4.png
 
-yangshun:
+ricardo:
   name: Yangshun Tay
-  title: Front End Engineer @ Facebook
+  title: CTeSP Tecnologias Informáticas 
   url: https://github.com/yangshun
   image_url: https://github.com/yangshun.png
 
-slorber:
+thayla:
   name: Sébastien Lorber
-  title: Docusaurus maintainer
+  title: CTeSP Tecnologias Informáticas 
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
+
+
+afonso:
+  name: Afonso Figueiredo
+  title: CTeSP Tecnologias Informáticas 
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+
+
