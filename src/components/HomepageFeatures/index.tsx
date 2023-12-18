@@ -31,12 +31,12 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Prevenção é a chave da duração!',
     Svg: require('@site/static/img/multiple_services.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Venha fazer uma revisão de rotina parga que tudo se mantenha em bom funcionamento.
+        O segredo para manter um carro em bom estado e fazer revisões frequentemente em bom estado e fazer revisões frequentemente.
       </>
     ),
   },
