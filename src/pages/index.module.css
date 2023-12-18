@@ -20,4 +20,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  color: #0000;
+  background-color: #fff;
+  border-color: #0000;
 }
