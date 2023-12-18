@@ -71,12 +71,18 @@ const config = {
           src: 'img/chave-inglesa.png',
         },
         items: [
-          {to: '/blog', label: 'Serviços', position: 'left'},
+          {to: '/blog', label: 'Eventos', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Sobre a Oficina',
+          },
+          {
+            type: 'doc',
+            docId: 'contact',
+            position: 'right',
+            label: 'Contato',
           },
           {
             href: 'https://github.com/facebook/docusaurus',

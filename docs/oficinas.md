@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Nossas oficinas
+# AS Nossas oficinas
 
 Temos algumas ofinas por todo o **Algarve**.
 
