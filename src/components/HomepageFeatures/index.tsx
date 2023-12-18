@@ -20,12 +20,13 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Auto detailing',
     Svg: require('@site/static/img/car_washing.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Com o nosso serviço de limpeza especializada o seu carro sai da oficina a parecer novo.
+        Lavagem, polimento, aspirarão, tudo o que for preciso.
+
       </>
     ),
   },
