@@ -80,7 +80,8 @@ const config = {
           },
           {
             type: 'doc',
-            id: 'contact',
+            docId: 'contact',
+            position: 'right',
             label: 'contactos',        
           },
           {
