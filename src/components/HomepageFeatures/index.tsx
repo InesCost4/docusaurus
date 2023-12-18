@@ -10,7 +10,7 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Mecânica especializada',
     Svg: require('@site/static/img/car_workshop.svg').default,
     description: (
       <>
