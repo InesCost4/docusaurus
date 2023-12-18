@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# Lavagem de veiculos
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Oferecemos um **serviço premium** de lavagem de carros para manter seu veículo sempre com uma aparência impecável:
 
 - `src/pages/index.js` → `localhost:3000/`
 - `src/pages/foo.md` → `localhost:3000/foo`
