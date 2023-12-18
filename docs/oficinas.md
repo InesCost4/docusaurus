@@ -21,7 +21,7 @@ Bem-vindo à Mecânica Prime em Portimão, Apesar de sermos uma oficina menor, o
 | Rua Giacomino Ferrari Nº 48 8500-723 Portimão | +351 919 123 653 |
 
 
-# loule
+# Loulé
 Bem-vindo à Mecânica Prime em Loulé, uma das oficinas mais bem-sucedidas e investidas em todo o Algarve. Liderada pelo fundador da marca Prime, destacamo-nos por oferecer os melhores serviços automotivos, resolvendo até os problemas mais complexos. Nossa administração cuidadosa e comprometimento com a excelência fazem da Mecânica Prime em Loulé uma escolha confiável para todas as necessidades automotivas.
 
 | **Morada**                 | **Telemóvel**      |
