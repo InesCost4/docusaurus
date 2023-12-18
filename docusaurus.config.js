@@ -75,7 +75,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Sobre a Oficina',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -89,10 +89,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Conheça nossa oficina',
             items: [
               {
-                label: 'Sobre',
+                label: 'Sobre a Oficina',
                 to: '/docs/intro',
               },
             ],
