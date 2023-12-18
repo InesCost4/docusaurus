@@ -19,7 +19,7 @@ O site é um exemplo de um website de uma oficina de automóveis, e terminado a:
 
 A blog post folder can be convenient to co-locate blog post images:
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+![Docusaurus Plushie](./imagem.jpg)
 
 The blog supports tags as well!
 
