@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Auto detailing',
+    title: 'Limpeza de Veículos',
     Svg: require('@site/static/img/car_washing.svg').default,
     description: (
       <>
