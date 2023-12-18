@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Mecânica Prime',
   tagline: 'O docsaurus iss fixe!',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon2.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -68,7 +68,7 @@ const config = {
         title: 'Mecânica Prime',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/chave-inglesa.png',
         },
         items: [
           {
