@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: Welcome
-authors: [ines]
+authors: [ines, ricardo, thayla, afonso]
 tags: [facebook, hello, docusaurus]
 ---
 
