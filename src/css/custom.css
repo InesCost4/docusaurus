@@ -8,8 +8,8 @@
 :root {
   --ifm-color-primary: #fafafa;
   --ifm-color-primary-dark: #6495ED;
-  --ifm-color-primary-darker: #ffffff;
-  --ifm-color-primary-darkest: #ffffff;
+  --ifm-color-primary-darker: #6495ED;
+  --ifm-color-primary-darkest: #6495ED;
   --ifm-color-primary-light: #ffffff;
   --ifm-color-primary-lighter: #ffffff;
   --ifm-color-primary-lightest: #ffffff;
