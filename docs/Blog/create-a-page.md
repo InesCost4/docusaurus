@@ -2,42 +2,35 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# Lavagem de Veículos
+Oferecemos um serviço premium de lavagem de carros para manter seu veículo sempre com uma aparência impecável.
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+# Serviço de Lavagem de Carros
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+O seu carro merece um tratamento especial e nós estamos aqui para oferecer o melhor serviço de lavagem e cuidados. Deixe o seu veículo com uma aparência impecável, graças aos nossos serviços de alta qualidade.
 
-## Create your first React Page
+## O Que Oferecemos?
+1. Lavagem de
+2. 
+### Lavagem Exterior
 
-Create a file at `src/pages/my-react-page.js`:
+Removemos toda sujeira, poeira e manchas da carroceria do seu carro. Utilizamos produtos de limpeza de qualidade para proteger a pintura e realçar o brilho.
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+### Limpeza Interior
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+Nossa equipe realiza uma limpeza minuciosa do interior do seu carro, incluindo aspiração e higienização dos estofamentos, tapetes e painéis.
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+### Polimento
 
-## Create your first Markdown Page
+Proporcione um acabamento brilhante à pintura do seu veículo com nosso serviço de polimento profissional.
 
-Create a file at `src/pages/my-markdown-page.md`:
+### 
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
+Cuidamos de cada detalhe, desde as rodas até os detalhes mais delicados do seu carro. Nosso serviço de detalhamento garante um resultado impecável.
 
-This is a Markdown page
-```
+## Agende Agora!
 
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+Agende sua lavagem de carros hoje mesmo e experimente a diferença de um serviço dedicado e de qualidade. Seu carro merece ser tratado com cuidado e nós garantimos resultados que superam suas expectativas.
+
+![Car Wash](/../../img/car_wash.jpg)
+
