@@ -71,13 +71,13 @@ const config = {
           src: 'img/chave-inglesa.png',
         },
         items: [
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Sobre a Oficina',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'Sobre a Oficina',
-                to: '/docs/intro',
+                to: '/docs/oficinaInfo',
               },
             ],
           },
@@ -128,7 +128,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Mecânica Prime.`,
       },
       prism: {
         theme: lightCodeTheme,
