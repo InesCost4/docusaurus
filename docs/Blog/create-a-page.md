@@ -1,11 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Lavagem de veiculos
 
-Oferecemos um **serviço premium** de lavagem de carros para manter seu veículo sempre com uma aparência impecável:
-
+Oferecemos um **serviço premium** de lavagem de carros:
 - `src/pages/index.js` → `localhost:3000/`
 - `src/pages/foo.md` → `localhost:3000/foo`
 - `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
