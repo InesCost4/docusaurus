@@ -14,8 +14,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/car_workshop.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Mecânica automóvel de uma simples troca de óleo ate uma troca de motor.
+        Na nossa oficina fazemos tudo o que o seu carro necessitar.
       </>
     ),
   },
