@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Site Demo',
-  tagline: 'O docsaurus iss fixe!',
-  favicon: 'img/favicon.ico',
+  title: 'Mecânica Prime',
+  tagline: 'Oficina!',
+  favicon: 'img/favicon2.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -65,10 +65,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Mecânica Prime',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/chave-inglesa.png',
         },
         items: [
           {
