@@ -71,7 +71,7 @@ const config = {
           src: 'img/chave-inglesa.png',
         },
         items: [
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Serviços', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
