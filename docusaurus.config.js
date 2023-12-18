@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Car ',
-  tagline: 'Oficina de automóveis',
+  title: 'Mecânica Prime',
+  tagline: 'Inovação em Cada Reparo, Qualidade em Cada Detalhe.',
   favicon: 'img/favicon2.ico',
 
   // Set the production url of your site here
@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Car Workshop',
+        title: 'Mecânica Prime',
         logo: {
           alt: 'My Site Logo',
           src: 'img/chave-inglesa.png',

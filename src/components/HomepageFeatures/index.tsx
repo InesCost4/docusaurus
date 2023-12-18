@@ -25,7 +25,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Com o nosso serviço de limpeza especializada o seu carro sai da oficina a parecer novo.
-        Lavagem, polimento, aspirarão, tudo o que for preciso.
+        Lavagem, polimento, aspiração, tudo o que for preciso.
 
       </>
     ),
@@ -35,8 +35,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/multiple_services.svg').default,
     description: (
       <>
-        Venha fazer uma revisão de rotina parga que tudo se mantenha em bom funcionamento.
-        O segredo para manter um carro em bom estado e fazer revisões frequentemente em bom estado e fazer revisões frequentemente.
+        Venha fazer uma revisão de rotina para, garantindo que não fica a meio do caminho!
+        Matenha o seu carro em bom estado e faça revisões frequentemente.
       </>
     ),
   },
