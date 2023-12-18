@@ -7,7 +7,7 @@ tags: [facebook, hello, docusaurus]
 
 [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Este projeto foi realizado no âmbito da unidade curricular de ambientes de desenvolvimento colaborativo e visa a realização do terceiro trabalho prático.
 
 Regular blog authors can be added to `authors.yml`.
 
