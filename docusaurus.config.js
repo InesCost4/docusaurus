@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Mecânica Prime',
+  title: 'Mecânica Prim',
   tagline: 'O docsaurus iss fixe!',
   favicon: 'img/favicon2.ico',
 
