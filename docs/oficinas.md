@@ -6,13 +6,11 @@ sidebar_position: 1
 
 temos um total de **4 oficinas em faro**.
 
+# faro
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+# Portimão
 
+# loule
 
-```bash
-cd my-website
-npm run start
-```
+# Albufeira
+
