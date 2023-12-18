@@ -79,12 +79,6 @@ const config = {
             label: 'Sobre a Oficina',
           },
           {
-            type: 'doc',
-            docId: 'contact',
-            position: 'right',
-            label: 'Contato',
-          },
-          {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
