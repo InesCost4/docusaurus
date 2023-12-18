@@ -2,9 +2,11 @@
 sidebar_position: 1
 ---
 
-# Nossa empresa
+# Nossa Marca
 
 Conheça um pouco mais sobre **Macânica Prime**.
+
+![Imagem_autoável](https://i.pinimg.com/564x/60/a4/4b/60a44b66261d8881de556d9b219228ee.jpg)
 
 ## Getting Started
 

@@ -2,32 +2,49 @@
 sidebar_position: 1
 ---
 
-# As nossas oficinas
+# Nossas oficinas
 
-temos um total de **4 oficinas em faro**.
+Temos algumas ofinas por todo o **Algarve**.
 
 # Faro
-Nesta nossa localização temos disponíveis todos os nossos serviços.
-sendo esta a nossa maior oficina temos um grande stock de peças e uma equipa de mecânicos reforçada.
+A Oficina Mecânica Prime, em Faro, é a primeira da nossa marca, e devido ao sucesso inicial, expandimos para atender toda a região do Algarve. Destacamo-nos pela alta qualidade dos serviços, realizados por profissionais experientes e dedicados. Comprometemo-nos com a excelência, transparência e comunicação aberta, garantindo uma experiência automotiva confiável para a comunidade de Faro e arredores. Agradecemos a confiança e estamos entusiasmados em continuar crescendo e servindo com paixão.
 
-**Morada:** Rua Dona Joana nº12 8005-888 Faro
-
-**Telefone** 919123654
-
-**Horario** 2ª a 6ª das 9:00 as 18:00
-
+| **Morada**                 | **Telemóvel**      |
+|------------------------|----------------|
+| Rua Dona Joana nº12 8005-888 Faro | +351 919 123 654 |
 
 # Portimão
-Nesta nossa localização temos disponíveis apenas os nossos serviços de limpeza e de manutenção pois e uma oficina boutique.
-sendo esta uma oficina com um tamanha reduzido recomendamos que faça marcação para poder ser atendido sem qualquer tipo de espera.
+Bem-vindo à Mecânica Prime em Portimão, Apesar de sermos uma oficina menor, oferecemos serviços essenciais com dedicação. Destacamos-nos por proporcionar uma experiência automotiva de qualidade, independentemente do tamanho. Além disso, temos um programa de ajuda para futuros mecânicos, comprometendo-nos com o crescimento da indústria e da comunidade local. Confie em nós para cuidar do seu veículo com paixão e excelência.
 
-**Morada** Rua Giacomino Ferrari Nº 48 8500-723 Portimão
+| **Morada**                 | **Telemóvel**      |
+|------------------------|----------------|
+| Rua Giacomino Ferrari Nº 48 8500-723 Portimão | +351 919 123 653 |
 
-**Telefone** 919123653
-
-**Horario** 2ª a 6ª das 9:00 as 18:00
 
 # loule
+Bem-vindo à Mecânica Prime em Loulé, uma das oficinas mais bem-sucedidas e investidas em todo o Algarve. Liderada pelo fundador da marca Prime, destacamo-nos por oferecer os melhores serviços automotivos, resolvendo até os problemas mais complexos. Nossa administração cuidadosa e comprometimento com a excelência fazem da Mecânica Prime em Loulé uma escolha confiável para todas as necessidades automotivas.
+
+| **Morada**                 | **Telemóvel**      |
+|------------------------|----------------|
+| Rua 5 de Outubro Nº 53 8100-943 Loulé | +351 786 645 349 |
 
 # Albufeira
+Bem-vindo à Mecânica Prime em Albufeira, a mais recente adição à nossa franquia. Apesar de ser a mais nova, estamos comprometidos em oferecer serviços automotivos de excelência. Nossa oficina valoriza o aprendizado e está em busca de profissionais dedicados que desejam construir uma carreira na área de mecânica. Se você busca oportunidades de crescimento e desenvolvimento, a Mecânica Prime em Albufeira é o lugar certo para construir sua trajetória na indústria automotiva.
 
+| **Morada**                 | **Telemóvel**      |
+|------------------------|----------------|
+| Rua da Oura Nº 22 8200-556 Albufeira | +351 786 645 349 |
+
+
+## Nosso horario de funcionamento
+Nosso horários são iguais para **todas** as oficinas.
+
+| Dia        |      Manhã     |     Tarde      |
+|------------|----------------|----------------|
+| Segunda    | 09:00 - 12:00  | 13:30 - 19:00  |
+| Terça      | 09:00 - 12:00  | 13:30 - 19:00  |
+| Quarta     | 09:00 - 12:00  | 13:30 - 19:00  |
+| Quinta     | 09:00 - 12:00  | 13:30 - 19:00  |
+| Sexta      | 09:00 - 12:00  | 13:30 - 19:00  |
+| Sábado     | 10:00 - 13:00  |    ------      |
+| Domingo    |      -----     |    ------      |
