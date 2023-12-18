@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/oficinas">
-            Descubra as nossas oficinas!
+            Conheça as nossas ofinas
           </Link>
         </div>
       </div>
