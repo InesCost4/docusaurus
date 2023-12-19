@@ -4,21 +4,10 @@
         <title>Mecânica Prime Blog</title>
         <link>https://github.com/docusaurus/blog</link>
         <description>Mecânica Prime Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pt</language>
-        <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://github.com/docusaurus/blog/welcome</link>
-            <guid>https://github.com/docusaurus/blog/welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tutoria da UAlg.]]></description>
-            <content:encoded><![CDATA[<p><a href="https://tutoria.ualg.pt/" target="_blank" rel="noopener noreferrer">Tutoria da UAlg</a>.</p><p>Este projeto foi realizado no âmbito da unidade curricular de ambientes de desenvolvimento colaborativo e visa a realização do terceiro trabalho prático.</p><p>O site é um exemplo de um website de uma oficina de automóveis, este foi criado a:</p><ul><li><code>2023-12-10</code></li></ul><p>O site é um exemplo de um website de uma oficina de automóveis, e terminado a:</p><ul><li><code>2023-12-18</code></li></ul>]]></content:encoded>
-            <category>facebook</category>
-            <category>hello</category>
-            <category>docusaurus</category>
-        </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
             <link>https://github.com/docusaurus/blog/mdx-blog-post</link>
