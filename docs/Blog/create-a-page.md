@@ -7,7 +7,7 @@ sidebar_position: 2
 Oferecemos um **serviço premium** de lavagem de carros:
 # Lavagem de Veículos
 
-![Carro Lavado](hhttps://balconistasa.com/wp-content/uploads/2022/01/ttrImagem-1_-carro-lavado-com-esponja.jpg)
+![Carro Lavado](https://balconistasa.com/wp-content/uploads/2022/01/ttrImagem-1_-carro-lavado-com-esponja.jpg)
 
 A lavagem de veículos é uma parte essencial da manutenção automotiva. Manter seu carro limpo não apenas melhora a aparência, mas também contribui para a durabilidade e valor de revenda do veículo.
 
