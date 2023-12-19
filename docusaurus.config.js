@@ -101,10 +101,12 @@ const config = {
             title : "Nossa Comunidade",
             items: [
               {
-                label: "Contate-nos"
+                label: "Contate-nos",
+                to: "/docs/contactos",
               },
               {
-                label: "Nossos serviços"
+                label: "Serviços",
+                to: "/docs/Blog/_category_.json",
               }
             ],
           },
