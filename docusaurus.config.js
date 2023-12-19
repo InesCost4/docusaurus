@@ -71,13 +71,13 @@ const config = {
           src: 'img/chave-inglesa.png',
         },
         items: [
-          {to: '/blog', label: 'Eventos', position: 'left'},
-          {
+           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Sobre a Oficina',
+            label: 'Oficina',
           },
+          {to: '/blog', label: 'Posts', position: 'left'},
           {
             type: 'doc',
             docId: 'contact',

@@ -27,7 +27,7 @@ Oferecemos serviços de qualidade a preços competitivos. Nossa transparência n
 
 ## Visite-nos Hoje!
 
-**[Agende Agora**
+**Agende Agora**
 
 Estamos ansiosos para cuidar do seu veículo. Agende uma visita à nossa oficina hoje mesmo. Deixe-nos mostrar por que somos a escolha certa para a reparação do seu carro.
 
