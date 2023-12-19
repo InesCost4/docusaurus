@@ -100,6 +100,17 @@ const config = {
           },
           {
             title: 'Nossa Comunidade',
+            items: [
+              {
+                label: 'Contactos',
+                to: '/docs/contactos',
+              },
+              {
+                label: 'Serviços',
+                to: '/docs/create-a-document',
+              },
+              
+            ], 
           },
           {
             title: 'More',
