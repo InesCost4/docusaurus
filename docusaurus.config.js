@@ -105,11 +105,6 @@ const config = {
                 label: 'Contactos',
                 to: '/docs/contactos',
               },
-              {
-                label: 'Serviços',
-                to: '/docs/create-a-document',
-              },
-              
             ], 
           },
           {
