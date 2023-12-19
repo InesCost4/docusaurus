@@ -4,6 +4,7 @@ title: Troca de oleo
 authors:
   name: Nuno Bruno
   title: Mecanica Prime - Cliente
+  url: https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Fvetores-premium%2Fperfil-de-avatar-de-homem-no-icone-redondo_2652064.htm&psig=AOvVaw2DBw7uUYjJy5TSQ4hDn9E_&ust=1703085502440000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCg-Ifmm4MDFQAAAAAdAAAAABAD
   image_url: https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Fvetores-premium%2Fperfil-de-avatar-de-homem-no-icone-redondo_2652064.htm&psig=AOvVaw2DBw7uUYjJy5TSQ4hDn9E_&ust=1703085502440000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCg-Ifmm4MDFQAAAAAdAAAAABAD
 tags: [Carro, Manutençao, Mecânica_Prime, Prime, oficina, Albufeira]
 ---
