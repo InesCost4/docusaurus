@@ -9,5 +9,8 @@ authors:
 tags: [asdrubal, acidente, climaximo]
 ---
 
-No passado dia 18-09-2022 o nosso cliente Asdrubal Inacio teve um pequeno precalse com o seu carro. Bateu de frente contra protestantes do climaximo abalroando uns quantos
-enquanto se tentava delocar para o seu loval habitual de trabalho.
+No passado dia 18-09-2022 o nosso cliente Asdrúbal Inácio teve um pequeno percalço com o seu carro. Bateu de frente contra protestantes do climaximo abalroando uns quantos.
+Enquanto se tentava deslocar para o seu local habitual de trabalho.
+
+!https://www.udireito.com/wp-content/uploads/2018/11/carro_acidente.jpg
+
