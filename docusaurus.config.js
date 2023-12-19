@@ -89,12 +89,23 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Conheça nossa oficina',
+            title: 'Conheça nossa Oficina',
             items: [
               {
-                label: 'Sobre a Oficina',
+                label: 'Oficina',
                 to: '/docs/oficinaInfo',
               },
+            ],
+          },
+          {
+            title : "Nossa Comunidade",
+            items: [
+              {
+                label: "Contate-nos"
+              },
+              {
+                label: "Nossos serviços"
+              }
             ],
           },
           {
