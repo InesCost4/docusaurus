@@ -109,11 +109,11 @@ const config = {
             items: [
               {
                 label: 'Contatos',
-                href: 'https://inescost4.github.io/docusaurus/docs/contact',
+                to: '/docs/contactos',
               },
               {
                 label: 'Serviços',
-                href: 'https://inescost4.github.io/docusaurus/docs/category/servi%C3%A7os',
+                to: '/docs/_category_',
               },
             ],
           },
