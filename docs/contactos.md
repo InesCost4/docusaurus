@@ -3,7 +3,7 @@ id: contact
 title: Contato
 ---
 
-# Entre em Contato Conosco
+# Entre em Contato Connosco
 
 Você pode entrar em contato connosco através dos seguintes meios:
 
