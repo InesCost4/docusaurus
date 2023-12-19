@@ -79,6 +79,12 @@ const config = {
           },
           {to: '/blog', label: 'Posts', position: 'left'},
           {
+            type: 'doc',
+            docId: 'contact',
+            position: 'left',
+            label: 'Contactos',        
+          },
+          {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
@@ -99,19 +105,15 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Nossa Comunidade',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Contatos',
+                href: 'https://inescost4.github.io/docusaurus/docs/contact',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Serviços',
+                href: 'https://inescost4.github.io/docusaurus/docs/category/servi%C3%A7os',
               },
             ],
           },
