@@ -89,12 +89,25 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Conheça nossa oficina',
+            title: 'Conheça nossa Oficina',
             items: [
               {
-                label: 'Sobre a Oficina',
+                label: 'Oficina',
                 to: '/docs/oficinaInfo',
               },
+            ],
+          },
+          {
+            title : 'Nossa Comunidade',
+            items: [
+              {
+                label: 'Contate-nos',
+                to: '/docusaurus/docs/contact',
+              },
+              {
+                label: 'Serviços',
+                to: '/docusaurus/docs/category/serviços',
+              }
             ],
           },
           {
@@ -111,7 +124,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Mecânica Prime.`,
+        copyright: `Copyright © ${new Date().getFullYear()} by Mecânica Prime.`,
       },
       prism: {
         theme: lightCodeTheme,
