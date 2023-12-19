@@ -106,7 +106,7 @@ const config = {
               },
               {
                 label: "Serviços",
-                to: "/docs/Blog/_category_.json",
+                to: "/docs/Blog/category.json",
               }
             ],
           },
