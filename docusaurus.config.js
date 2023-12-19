@@ -124,7 +124,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Mecânica Prime.`,
+        copyright: `Copyright © ${new Date().getFullYear()} by Mecânica Prime.`,
       },
       prism: {
         theme: lightCodeTheme,
