@@ -101,10 +101,7 @@ const config = {
                 label: 'Sobre a Oficina',
                 to: '/docs/oficinaInfo',
               },
-              {
-                label: 'Contactos',
-                to: '/docs/contactos'
-              }
+              
             ],
           },
           {
