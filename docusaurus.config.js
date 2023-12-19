@@ -79,12 +79,6 @@ const config = {
           },
           {to: '/blog', label: 'Posts', position: 'left'},
           {
-            type: 'doc',
-            docId: 'contact',
-            position: 'left',
-            label: 'Contactos',        
-          },
-          {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
