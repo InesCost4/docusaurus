@@ -4,8 +4,8 @@ title: Troca de Embraiagem
 authors:
   name: Gervásio Azeite
   title: Mecanica Prime - Cliente
-  url: https://unifardas.pt/wp-content/uploads/2023/03/camisa-de-trabalho-de-homem-unifardas.jpg
-  image_url: https://unifardas.pt/wp-content/uploads/2023/03/camisa-de-trabalho-de-homem-unifardas.jpg
+  url: https://www.otempo.com.br/image/contentid/policy:1.2972085:1688395207/Libano-1-jpg.jpg?f=3x2&w=1224
+  image_url: https://www.otempo.com.br/image/contentid/policy:1.2972085:1688395207/Libano-1-jpg.jpg?f=3x2&w=1224
 tags: [Carro, Troca_Peca, Mecânica_Prime, Oficina]
 ---
 
