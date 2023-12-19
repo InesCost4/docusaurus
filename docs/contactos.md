@@ -12,7 +12,7 @@ Você pode entrar em contato connosco através dos seguintes meios:
 
 ## Formulário de Contato
 
-Para entrar em contato conosco, preencha o formulário abaixo:
+Exemplo de um formulário de contacto:
 
 ```html
 <form action="seu_script_de_processamento.php" method="post">
