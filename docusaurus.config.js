@@ -81,8 +81,8 @@ const config = {
           {
             type: 'doc',
             docId: 'contact',
-            position: 'right',
-            label: 'contactos',        
+            position: 'left',
+            label: 'Contactos',        
           },
           {
             href: 'https://github.com/facebook/docusaurus',
