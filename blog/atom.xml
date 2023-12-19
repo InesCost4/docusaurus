@@ -2,106 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/docusaurus/blog</id>
     <title>Mecânica Prime Blog</title>
-    <updated>2023-12-19T18:28:26.000Z</updated>
+    <updated>2023-12-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/docusaurus/blog"/>
     <subtitle>Mecânica Prime Blog</subtitle>
     <icon>https://github.com/docusaurus/img/favicon2.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Lavagem e Limpeza]]></title>
-        <id>https://github.com/docusaurus/blog/check-up</id>
-        <link href="https://github.com/docusaurus/blog/check-up"/>
-        <updated>2023-12-19T18:28:26.000Z</updated>
-        <summary type="html"><![CDATA[A Amanda Cátia precisava de uma lavagem para o seu carro. Antes disso, realizámos uma verificação completa e uma limpeza geral do veículo. Isso incluiu cuidados especiais para garantir que o carro ficasse impecável e pronto para rodar nas melhores condições possíveis. O objetivo era proporcionar uma experiência de condução agradável e garantir que o carro estivesse limpo e bem cuidado.]]></summary>
-        <content type="html"><![CDATA[<p>A Amanda Cátia precisava de uma lavagem para o seu carro. Antes disso, realizámos uma verificação completa e uma limpeza geral do veículo. Isso incluiu cuidados especiais para garantir que o carro ficasse impecável e pronto para rodar nas melhores condições possíveis. O objetivo era proporcionar uma experiência de condução agradável e garantir que o carro estivesse limpo e bem cuidado.</p><p><img loading="lazy" src="https://image.delti.com/simg/landingpages/carwash.jpg" alt="Imagem_limpeza" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>Amanda Kátia</name>
-            <uri>https://bordalo.observador.pt/v2/q:84/rs:fill:1159:1157/c:1159:1157:nowe:615:82/plain/https://s3.observador.pt/wp-content/uploads/2021/12/17165411/whatsapp-image-2021-12-17-at-152612.jpeg</uri>
-        </author>
-        <category label="Carro" term="Carro"/>
-        <category label="Lavagem_e_limpeza" term="Lavagem_e_limpeza"/>
-        <category label="lavagem" term="lavagem"/>
-        <category label="limpeza" term="limpeza"/>
-        <category label="Mecânica_Prime" term="Mecânica_Prime"/>
-        <category label="Prime" term="Prime"/>
-        <category label="Oficina" term="Oficina"/>
-        <category label="Loulé" term="Loulé"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Troca de Embraiagem]]></title>
-        <id>https://github.com/docusaurus/blog/troca-pecas</id>
-        <link href="https://github.com/docusaurus/blog/troca-pecas"/>
-        <updated>2023-12-19T18:28:26.000Z</updated>
-        <summary type="html"><![CDATA[O Gervásio Azeite nãoestava a conseguir a arrancar o carro. Realizámos uma verificação completa e foi detetada uma falha na embraiagem. A peça foi prontamente substituida de forma cuidadosa e eficaz pelos nosso funcionários.]]></summary>
-        <content type="html"><![CDATA[<p>O Gervásio Azeite nãoestava a conseguir a arrancar o carro. Realizámos uma verificação completa e foi detetada uma falha na embraiagem. A peça foi prontamente substituida de forma cuidadosa e eficaz pelos nosso funcionários. </p><p><img loading="lazy" src="https://cdn.autodoc.de/uploads/info_section/article/206/1672408478_1716_987e3c57bbdc004ca31935f6e0a06fdd.jpeg" alt="Imagem_limpeza" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>Gervásio Azeite</name>
-            <uri>https://www.otempo.com.br/image/contentid/policy:1.2972085:1688395207/Libano-1-jpg.jpg?f=3x2&amp;w=1224</uri>
-        </author>
-        <category label="Carro" term="Carro"/>
-        <category label="Troca_Peca" term="Troca_Peca"/>
-        <category label="Mecânica_Prime" term="Mecânica_Prime"/>
-        <category label="Oficina" term="Oficina"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polimento Automovel]]></title>
-        <id>https://github.com/docusaurus/blog/polimento</id>
-        <link href="https://github.com/docusaurus/blog/polimento"/>
-        <updated>2023-12-19T18:28:26.000Z</updated>
-        <summary type="html"><![CDATA[O nosso cliente Jose Caramelo passaou na nosssa oficina para fazer um polimento ao seu carro.]]></summary>
-        <content type="html"><![CDATA[<p>O nosso cliente Jose Caramelo passaou na nosssa oficina para fazer um polimento ao seu carro.
-Com este serviço pode tranformar a pintura do seu carro que continha alguns arranhoes e marcas de limpezas antiga que tinham a comulando ao longo do tempo,
-mas com este polimento o seu carro ficou com um aspeto de novo.</p><p><img loading="lazy" src="https://www.funilariadecarro.com.br/imagens/polimento-e-cristalizacao-3m-valor.jpg" alt="Imagem_polimento" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>Jose Caramelo</name>
-            <uri>https://i1.sndcdn.com/avatars-000019096968-vcxiac-t500x500.jpg</uri>
-        </author>
-        <category label="Carro" term="Carro"/>
-        <category label="Polimento" term="Polimento"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reparaçao de colisão frontal]]></title>
-        <id>https://github.com/docusaurus/blog/colisao-frontal</id>
-        <link href="https://github.com/docusaurus/blog/colisao-frontal"/>
-        <updated>2023-12-19T18:28:26.000Z</updated>
-        <summary type="html"><![CDATA[O nosso cliente Asdrúbal Inácio teve um pequeno percalço com o seu carro. Bateu de frente contra protestantes do climaximo abalroando uns quantos.]]></summary>
-        <content type="html"><![CDATA[<p>O nosso cliente Asdrúbal Inácio teve um pequeno percalço com o seu carro. Bateu de frente contra protestantes do climaximo abalroando uns quantos.
-Enquanto se tentava deslocar para o seu local habitual de trabalho.</p><p><img loading="lazy" src="https://www.udireito.com/wp-content/uploads/2018/11/carro_acidente.jpg" alt="imagem_carro" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>Asdrubla Inácio</name>
-            <uri>https://media.licdn.com/dms/image/D5603AQFePp8hjp2ipQ/profile-displayphoto-shrink_800_800/0/1699917508624?e=2147483647&amp;v=beta&amp;t=u-wUTI5WF1yCKRjocKeP3B_Dkb0Ryl-mAEqvcYPPtMg</uri>
-        </author>
-        <category label="Carro" term="Carro"/>
-        <category label="Acidente" term="Acidente"/>
-        <category label="Mecânica_Prime" term="Mecânica_Prime"/>
-        <category label="Prime" term="Prime"/>
-        <category label="Oficina" term="Oficina"/>
-        <category label="Faro" term="Faro"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Troca de óleo]]></title>
-        <id>https://github.com/docusaurus/blog/troca-oleo</id>
-        <link href="https://github.com/docusaurus/blog/troca-oleo"/>
-        <updated>2023-12-19T18:28:26.000Z</updated>
-        <summary type="html"><![CDATA[O nosso cliente Nuno Bruno deslocou se até a nossa oficina para efetuar uma troca de óleo no seu carro.]]></summary>
-        <content type="html"><![CDATA[<p>O nosso cliente Nuno Bruno deslocou se até a nossa oficina para efetuar uma troca de óleo no seu carro.
-Como cliente fiel e de longa data entrou e saiu em menos de 30 minutos. Durante esse tempo teve a oportunidade de desfrutar de um café no nosso lounge.</p><p><img loading="lazy" src="https://www.webmotors.com.br/wp-content/uploads/2018/09/24103141/iStock-184961301-1254x500.jpg" alt="imagem_troca_oleo" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>Nuno Bruno</name>
-            <uri>https://www.n-tv.pt/files/2022/01/nuno-homem-sa-696x457.jpg</uri>
-        </author>
-        <category label="Carro" term="Carro"/>
-        <category label="Manutençao" term="Manutençao"/>
-        <category label="Mecânica_Prime" term="Mecânica_Prime"/>
-        <category label="Prime" term="Prime"/>
-        <category label="Oficina" term="Oficina"/>
-        <category label="Albufeira" term="Albufeira"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Autores]]></title>
         <id>https://github.com/docusaurus/blog/index</id>
         <link href="https://github.com/docusaurus/blog/index"/>
-        <updated>2023-12-19T18:28:26.000Z</updated>
+        <updated>2023-12-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Tutoria da UAlg]]></summary>
         <content type="html"><![CDATA[<p><a href="https://tutoria.ualg.pt/" target="_blank" rel="noopener noreferrer">Tutoria da UAlg</a></p><p>O presente projeto viza replicar o funcionamento de um website de uma oficina e foi realizado no âmbito da unidade curricular de ambientes de desenvolvimento colaborativo.</p><p>O site é um exemplo de um website de uma oficina de automóveis, este foi criado a:</p><ul><li><code>2023-12-09</code></li></ul><p>O site é um exemplo de um website de uma oficina de automóveis, e terminado a:</p><ul><li><code>2023-12-19</code></li></ul>]]></content>
         <author>
@@ -120,5 +30,95 @@ Como cliente fiel e de longa data entrou e saiu em menos de 30 minutos. Durante 
             <name>Afonso Figueiredo</name>
             <uri>https://github.com/NMontalvao12</uri>
         </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Troca de Embraiagem]]></title>
+        <id>https://github.com/docusaurus/blog/troca-pecas</id>
+        <link href="https://github.com/docusaurus/blog/troca-pecas"/>
+        <updated>2023-12-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[O Gervásio Azeite nãoestava a conseguir a arrancar o carro. Realizámos uma verificação completa e foi detetada uma falha na embraiagem. A peça foi prontamente substituida de forma cuidadosa e eficaz pelos nosso funcionários.]]></summary>
+        <content type="html"><![CDATA[<p>O Gervásio Azeite nãoestava a conseguir a arrancar o carro. Realizámos uma verificação completa e foi detetada uma falha na embraiagem. A peça foi prontamente substituida de forma cuidadosa e eficaz pelos nosso funcionários. </p><p><img loading="lazy" src="https://cdn.autodoc.de/uploads/info_section/article/206/1672408478_1716_987e3c57bbdc004ca31935f6e0a06fdd.jpeg" alt="Imagem_limpeza" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Gervásio Azeite</name>
+            <uri>https://www.otempo.com.br/image/contentid/policy:1.2972085:1688395207/Libano-1-jpg.jpg?f=3x2&amp;w=1224</uri>
+        </author>
+        <category label="Carro" term="Carro"/>
+        <category label="Troca_Peca" term="Troca_Peca"/>
+        <category label="Mecânica_Prime" term="Mecânica_Prime"/>
+        <category label="Oficina" term="Oficina"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reparaçao de colisão frontal]]></title>
+        <id>https://github.com/docusaurus/blog/colisao-frontal</id>
+        <link href="https://github.com/docusaurus/blog/colisao-frontal"/>
+        <updated>2023-11-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[O nosso cliente Asdrúbal Inácio teve um pequeno percalço com o seu carro. Bateu de frente contra protestantes do climaximo abalroando uns quantos.]]></summary>
+        <content type="html"><![CDATA[<p>O nosso cliente Asdrúbal Inácio teve um pequeno percalço com o seu carro. Bateu de frente contra protestantes do climaximo abalroando uns quantos.
+Enquanto se tentava deslocar para o seu local habitual de trabalho.</p><p><img loading="lazy" src="https://www.udireito.com/wp-content/uploads/2018/11/carro_acidente.jpg" alt="imagem_carro" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Asdrubla Inácio</name>
+            <uri>https://media.licdn.com/dms/image/D5603AQFePp8hjp2ipQ/profile-displayphoto-shrink_800_800/0/1699917508624?e=2147483647&amp;v=beta&amp;t=u-wUTI5WF1yCKRjocKeP3B_Dkb0Ryl-mAEqvcYPPtMg</uri>
+        </author>
+        <category label="Carro" term="Carro"/>
+        <category label="Acidente" term="Acidente"/>
+        <category label="Mecânica_Prime" term="Mecânica_Prime"/>
+        <category label="Prime" term="Prime"/>
+        <category label="Oficina" term="Oficina"/>
+        <category label="Faro" term="Faro"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Troca de óleo]]></title>
+        <id>https://github.com/docusaurus/blog/troca-oleo</id>
+        <link href="https://github.com/docusaurus/blog/troca-oleo"/>
+        <updated>2023-11-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[O nosso cliente Nuno Bruno deslocou se até a nossa oficina para efetuar uma troca de óleo no seu carro.]]></summary>
+        <content type="html"><![CDATA[<p>O nosso cliente Nuno Bruno deslocou se até a nossa oficina para efetuar uma troca de óleo no seu carro.
+Como cliente fiel e de longa data entrou e saiu em menos de 30 minutos. Durante esse tempo teve a oportunidade de desfrutar de um café no nosso lounge.</p><p><img loading="lazy" src="https://www.webmotors.com.br/wp-content/uploads/2018/09/24103141/iStock-184961301-1254x500.jpg" alt="imagem_troca_oleo" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Nuno Bruno</name>
+            <uri>https://www.n-tv.pt/files/2022/01/nuno-homem-sa-696x457.jpg</uri>
+        </author>
+        <category label="Carro" term="Carro"/>
+        <category label="Manutençao" term="Manutençao"/>
+        <category label="Mecânica_Prime" term="Mecânica_Prime"/>
+        <category label="Prime" term="Prime"/>
+        <category label="Oficina" term="Oficina"/>
+        <category label="Albufeira" term="Albufeira"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polimento Automovel]]></title>
+        <id>https://github.com/docusaurus/blog/polimento</id>
+        <link href="https://github.com/docusaurus/blog/polimento"/>
+        <updated>2023-11-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[O nosso cliente Jose Caramelo passaou na nosssa oficina para fazer um polimento ao seu carro.]]></summary>
+        <content type="html"><![CDATA[<p>O nosso cliente Jose Caramelo passaou na nosssa oficina para fazer um polimento ao seu carro.
+Com este serviço pode tranformar a pintura do seu carro que continha alguns arranhoes e marcas de limpezas antiga que tinham a comulando ao longo do tempo,
+mas com este polimento o seu carro ficou com um aspeto de novo.</p><p><img loading="lazy" src="https://www.funilariadecarro.com.br/imagens/polimento-e-cristalizacao-3m-valor.jpg" alt="Imagem_polimento" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Jose Caramelo</name>
+            <uri>https://i1.sndcdn.com/avatars-000019096968-vcxiac-t500x500.jpg</uri>
+        </author>
+        <category label="Carro" term="Carro"/>
+        <category label="Polimento" term="Polimento"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lavagem e Limpeza]]></title>
+        <id>https://github.com/docusaurus/blog/check-up</id>
+        <link href="https://github.com/docusaurus/blog/check-up"/>
+        <updated>2023-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Amanda Cátia precisava de uma lavagem para o seu carro. Antes disso, realizámos uma verificação completa e uma limpeza geral do veículo. Isso incluiu cuidados especiais para garantir que o carro ficasse impecável e pronto para rodar nas melhores condições possíveis. O objetivo era proporcionar uma experiência de condução agradável e garantir que o carro estivesse limpo e bem cuidado.]]></summary>
+        <content type="html"><![CDATA[<p>A Amanda Cátia precisava de uma lavagem para o seu carro. Antes disso, realizámos uma verificação completa e uma limpeza geral do veículo. Isso incluiu cuidados especiais para garantir que o carro ficasse impecável e pronto para rodar nas melhores condições possíveis. O objetivo era proporcionar uma experiência de condução agradável e garantir que o carro estivesse limpo e bem cuidado.</p><p><img loading="lazy" src="https://image.delti.com/simg/landingpages/carwash.jpg" alt="Imagem_limpeza" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Amanda Kátia</name>
+            <uri>https://bordalo.observador.pt/v2/q:84/rs:fill:1159:1157/c:1159:1157:nowe:615:82/plain/https://s3.observador.pt/wp-content/uploads/2021/12/17165411/whatsapp-image-2021-12-17-at-152612.jpeg</uri>
+        </author>
+        <category label="Carro" term="Carro"/>
+        <category label="Lavagem_e_limpeza" term="Lavagem_e_limpeza"/>
+        <category label="lavagem" term="lavagem"/>
+        <category label="limpeza" term="limpeza"/>
+        <category label="Mecânica_Prime" term="Mecânica_Prime"/>
+        <category label="Prime" term="Prime"/>
+        <category label="Oficina" term="Oficina"/>
+        <category label="Loulé" term="Loulé"/>
     </entry>
 </feed>
