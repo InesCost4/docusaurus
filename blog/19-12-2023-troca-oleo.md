@@ -4,8 +4,8 @@ title: Troca de oleo
 authors:
   name: Nuno Bruno
   title: Mecanica Prime - Cliente
-  url: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.n-tv.pt%2Facontece%2Fha-20-anos-em-reality-shows-saiba-quantas-vezes-nuno-homem-de-sa-passou-pelo-formato%2F808766%2F&psig=AOvVaw0nfFVqvsIoYp6wx6rps8JV&ust=1703086715507000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODXgMrqm4MDFQAAAAAdAAAAABAR
-  image_url: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.n-tv.pt%2Facontece%2Fha-20-anos-em-reality-shows-saiba-quantas-vezes-nuno-homem-de-sa-passou-pelo-formato%2F808766%2F&psig=AOvVaw0nfFVqvsIoYp6wx6rps8JV&ust=1703086715507000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODXgMrqm4MDFQAAAAAdAAAAABAR
+  url: https://www.n-tv.pt/files/2022/01/nuno-homem-sa-696x457.jpg
+  image_url: https://www.n-tv.pt/files/2022/01/nuno-homem-sa-696x457.jpg
 tags: [Carro, Manutençao, Mecânica_Prime, Prime, oficina, Albufeira]
 ---
 
