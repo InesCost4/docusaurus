@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[6148],{4894:a=>{a.exports=JSON.parse('{"label":"Troca_Peca","permalink":"/docusaurus/blog/tags/troca-peca","allTagsPath":"/docusaurus/blog/tags","count":1}')}}]);
