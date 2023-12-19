@@ -1,6 +1,6 @@
 ---
-slug: welcome
-title: Welcome
+slug: Autores
+title: Autores
 authors: [ines, ricardo, thayla, afonso]
 tags: [facebook, hello, docusaurus]
 ---
