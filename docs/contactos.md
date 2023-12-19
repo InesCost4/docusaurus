@@ -14,7 +14,7 @@ Você pode entrar em contato connosco através dos seguintes meios:
 
 Exemplo de um formulário de contacto:
 
-```html
+
 <form action="seu_script_de_processamento.php" method="post">
   <label for="nome">Nome:</label>
   <input type="text" id="nome" name="nome" required>

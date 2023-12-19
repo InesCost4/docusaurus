@@ -2,10 +2,9 @@
 slug: Autores
 title: Autores
 authors: [ines, ricardo, thayla, afonso]
-tags: [facebook, hello, docusaurus]
 ---
 
-[Tutoria da UAlg](https://tutoria.ualg.pt/).
+[Tutoria da UAlg](https://tutoria.ualg.pt/)
 
 Este projeto foi realizado no âmbito da unidade curricular de ambientes de desenvolvimento colaborativo e visa a realização do terceiro trabalho prático.
 
