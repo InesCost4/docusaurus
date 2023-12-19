@@ -2,41 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/docusaurus/blog</id>
     <title>Mecânica Prime Blog</title>
-    <updated>2023-12-19T15:04:02.000Z</updated>
+    <updated>2023-12-19T15:36:23.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/docusaurus/blog"/>
     <subtitle>Mecânica Prime Blog</subtitle>
     <icon>https://github.com/docusaurus/img/favicon2.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Lavagem e Limpeza]]></title>
+        <id>https://github.com/docusaurus/blog/Check-up</id>
+        <link href="https://github.com/docusaurus/blog/Check-up"/>
+        <updated>2023-12-19T15:36:23.000Z</updated>
+        <summary type="html"><![CDATA[Na Mecânica Prime, temos a satisfação de compartilhar uma experiência excepcional ao fornecer nossos serviços de limpeza e lavagem a uma cliente especial. Destacamo-nos em relação a outras oficinas, oferecendo um serviço que não apenas atendeu, mas superou as expectativas. Demonstramos atenção minuciosa aos detalhes e compromisso com a satisfação do cliente, resultando em um veículo impecavelmente limpo. Essa experiência reforçou nossa posição como uma oficina comprometida com a excelência e a satisfação do cliente na Mecânica Prime. Estamos ansiosos para continuar proporcionando experiências automotivas excepcionais a todos os nossos clientes.]]></summary>
+        <content type="html"><![CDATA[<p>Na Mecânica Prime, temos a satisfação de compartilhar uma experiência excepcional ao fornecer nossos serviços de limpeza e lavagem a uma cliente especial. Destacamo-nos em relação a outras oficinas, oferecendo um serviço que não apenas atendeu, mas superou as expectativas. Demonstramos atenção minuciosa aos detalhes e compromisso com a satisfação do cliente, resultando em um veículo impecavelmente limpo. Essa experiência reforçou nossa posição como uma oficina comprometida com a excelência e a satisfação do cliente na Mecânica Prime. Estamos ansiosos para continuar proporcionando experiências automotivas excepcionais a todos os nossos clientes.</p><p><img loading="lazy" src="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fblog.ituran.com.br%2F2021%2F11%2Fdicas-de-como-limpar-o-carro%2F&amp;psig=AOvVaw3Ngey4Nx5CdwdpkccCEkyF&amp;ust=1703086336776000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBIQjRxqFwoTCJCp3Jbpm4MDFQAAAAAdAAAAABAD" alt="Imagem_limpeza" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Amanda Kátia</name>
+            <uri>https://bordalo.observador.pt/v2/q:84/rs:fill:1159:1157/c:1159:1157:nowe:615:82/plain/https://s3.observador.pt/wp-content/uploads/2021/12/17165411/whatsapp-image-2021-12-17-at-152612.jpeg</uri>
+        </author>
+        <category label="Carro" term="Carro"/>
+        <category label="Lavagem_e_limpeza" term="Lavagem_e_limpeza"/>
+        <category label="lavagem" term="lavagem"/>
+        <category label="limpeza" term="limpeza"/>
+        <category label="Mecânica_Prime" term="Mecânica_Prime"/>
+        <category label="Prime" term="Prime"/>
+        <category label="oficina" term="oficina"/>
+        <category label="loulé" term="loulé"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Reparaçao de colisão frontal]]></title>
         <id>https://github.com/docusaurus/blog/colisao-frontal</id>
         <link href="https://github.com/docusaurus/blog/colisao-frontal"/>
-        <updated>2023-12-19T15:04:02.000Z</updated>
-        <summary type="html"><![CDATA[No passado dia 18-09-2022 o nosso cliente Asdrúbal Inácio teve um pequeno percalço com o seu carro. Bateu de frente contra protestantes do climaximo abalroando uns quantos.]]></summary>
-        <content type="html"><![CDATA[<p>No passado dia 18-09-2022 o nosso cliente Asdrúbal Inácio teve um pequeno percalço com o seu carro. Bateu de frente contra protestantes do climaximo abalroando uns quantos.
+        <updated>2023-12-19T15:36:23.000Z</updated>
+        <summary type="html"><![CDATA[O nosso cliente Asdrúbal Inácio teve um pequeno percalço com o seu carro. Bateu de frente contra protestantes do climaximo abalroando uns quantos.]]></summary>
+        <content type="html"><![CDATA[<p>O nosso cliente Asdrúbal Inácio teve um pequeno percalço com o seu carro. Bateu de frente contra protestantes do climaximo abalroando uns quantos.
 Enquanto se tentava deslocar para o seu local habitual de trabalho.</p><p><img loading="lazy" src="https://www.udireito.com/wp-content/uploads/2018/11/carro_acidente.jpg" alt="imagem_carro" class="img_ev3q"></p>]]></content>
         <author>
             <name>Asdrubla Inácio</name>
             <uri>https://media.licdn.com/dms/image/D5603AQFePp8hjp2ipQ/profile-displayphoto-shrink_800_800/0/1699917508624?e=2147483647&amp;v=beta&amp;t=u-wUTI5WF1yCKRjocKeP3B_Dkb0Ryl-mAEqvcYPPtMg</uri>
         </author>
-        <category label="asdrubal" term="asdrubal"/>
+        <category label="Carro" term="Carro"/>
         <category label="acidente" term="acidente"/>
-        <category label="climaximo" term="climaximo"/>
+        <category label="Mecânica_Prime" term="Mecânica_Prime"/>
+        <category label="Prime" term="Prime"/>
+        <category label="oficina" term="oficina"/>
+        <category label="faro" term="faro"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Troca de oleo]]></title>
         <id>https://github.com/docusaurus/blog/troca-oleo</id>
         <link href="https://github.com/docusaurus/blog/troca-oleo"/>
-        <updated>2023-12-19T15:04:02.000Z</updated>
-        <summary type="html"><![CDATA[No passado dia 24-09-2022 o nosso cliente Nuno Bruno deslocou se ate a nossa oficina para efetuar uma troca de oleo no seu carro.]]></summary>
-        <content type="html"><![CDATA[<p>No passado dia 24-09-2022 o nosso cliente Nuno Bruno deslocou se ate a nossa oficina para efetuar uma troca de oleo no seu carro.
-Como cliente fiel e de longa data entrou e saiu em menos de 30 minutos. Durante esse tempo teve a oportunidade de desfrutar de um cafe no nosso louge.</p><p><img loading="lazy" src="https://www.webmotors.com.br/wp-content/uploads/2018/09/24103141/iStock-184961301-1254x500.jpg" alt="imagem_troca_oleo" class="img_ev3q"></p>]]></content>
+        <updated>2023-12-19T15:36:23.000Z</updated>
+        <summary type="html"><![CDATA[O nosso cliente Nuno Bruno deslocou se até a nossa oficina para efetuar uma troca de óleo no seu carro.]]></summary>
+        <content type="html"><![CDATA[<p>O nosso cliente Nuno Bruno deslocou se até a nossa oficina para efetuar uma troca de óleo no seu carro.
+Como cliente fiel e de longa data entrou e saiu em menos de 30 minutos. Durante esse tempo teve a oportunidade de desfrutar de um café no nosso lounge.</p><p><img loading="lazy" src="https://www.webmotors.com.br/wp-content/uploads/2018/09/24103141/iStock-184961301-1254x500.jpg" alt="imagem_troca_oleo" class="img_ev3q"></p>]]></content>
         <author>
             <name>Nuno Bruno</name>
-            <uri>https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/61e564110cf21a10a41a0acf/400.jpg</uri>
+            <uri>https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fbr.freepik.com%2Fvetores-premium%2Fperfil-de-avatar-de-homem-no-icone-redondo_2652064.htm&amp;psig=AOvVaw2DBw7uUYjJy5TSQ4hDn9E_&amp;ust=1703085502440000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBIQjRxqFwoTCMCg-Ifmm4MDFQAAAAAdAAAAABAD</uri>
         </author>
-        <category label="Nuno" term="Nuno"/>
+        <category label="Carro" term="Carro"/>
         <category label="Manutençao" term="Manutençao"/>
+        <category label="Mecânica_Prime" term="Mecânica_Prime"/>
+        <category label="Prime" term="Prime"/>
+        <category label="oficina" term="oficina"/>
+        <category label="Albufeira" term="Albufeira"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Autores]]></title>
