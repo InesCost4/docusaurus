@@ -79,7 +79,7 @@ const config = {
           },
           {to: '/blog', label: 'Posts', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/InesCost4/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -89,7 +89,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Conheça nossa Oficina',
+            title: 'Sobre a Mecânica Prime',
             items: [
               {
                 label: 'Oficina',
@@ -98,7 +98,7 @@ const config = {
             ],
           },
           {
-            title : 'Nossa Comunidade',
+            title : 'Sobre Nós',
             items: [
               {
                 label: 'Contate-nos',
@@ -111,7 +111,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Saiba Mais',
             items: [
               {
                 label: 'Posts',
@@ -119,7 +119,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/InesCost4/docusaurus',
               },
             ],
           },
