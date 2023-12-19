@@ -9,7 +9,7 @@ authors:
 tags: [Carro, Polimento]
 ---
 
-No passado dia 09-03-2022 o nosso cliente Jose Caramelo passaou na nosssa oficina para fazer um polimento ao seu carro.
+O nosso cliente Jose Caramelo passaou na nosssa oficina para fazer um polimento ao seu carro.
 Com este serviço pode tranformar a pintura do seu carro que continha alguns arranhoes e marcas de limpezas antiga que tinham a comulando ao longo do tempo,
 mas com este polimento o seu carro ficou com um aspeto de novo.
 
