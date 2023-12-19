@@ -103,11 +103,11 @@ const config = {
             items: [
               {
                 label: 'Contatos',
-                to: '/docs/contactos',
+                href: 'https://github.com/facebook/docusaurus',
               },
               {
                 label: 'Serviços',
-                to: '/docs/_category_',
+                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
