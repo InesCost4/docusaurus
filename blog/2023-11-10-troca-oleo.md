@@ -4,8 +4,8 @@ title: Troca de óleo
 authors:
   name: Nuno Bruno
   title: Mecanica Prime - Cliente
-  url: https://www.n-tv.pt/files/2022/01/nuno-homem-sa.jpg
-  image_url: https://www.n-tv.pt/files/2022/01/nuno-homem-sa.jpg
+  url: https://www.tv7dias.pt/wp-content/uploads/2022/09/WhatsApp-Image-2022-04-14-at-11.51.09-316635348071663541109.jpeg
+  image_url: https://www.tv7dias.pt/wp-content/uploads/2022/09/WhatsApp-Image-2022-04-14-at-11.51.09-316635348071663541109.jpeg
 tags: [Carro, Manutençao, Mecânica_Prime, Prime, Oficina, Albufeira]
 ---
 
