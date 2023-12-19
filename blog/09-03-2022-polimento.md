@@ -4,7 +4,7 @@ title: Polimento Automovel
 authors:
   name: Jose Caramelo
   title: Mecanica Prime - Cliente
-  url: 
+  url: https://i1.sndcdn.com/avatars-000019096968-vcxiac-t500x500.jpg
   image_url: https://i1.sndcdn.com/avatars-000019096968-vcxiac-t500x500.jpg
 tags: [Carro, Polimento]
 ---
