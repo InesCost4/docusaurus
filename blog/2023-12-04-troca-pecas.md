@@ -4,8 +4,8 @@ title: Troca de Embraiagem
 authors:
   name: Gervásio Azeite
   title: Mecanica Prime - Cliente
-  url: https://www.otempo.com.br/image/contentid/policy:1.2972085:1688395207/Libano-1-jpg.jpg?f=3x2&w=1224
-  image_url: https://www.otempo.com.br/image/contentid/policy:1.2972085:1688395207/Libano-1-jpg.jpg?f=3x2&w=1224
+  url: https://img.freepik.com/fotos-premium/um-homem-com-um-sorriso-no-rosto-esta-de-bracos-cruzados_910718-30.jpg
+  image_url: https://img.freepik.com/fotos-premium/um-homem-com-um-sorriso-no-rosto-esta-de-bracos-cruzados_910718-30.jpg
 tags: [Carro, Troca_Peca, Mecânica_Prime, Oficina]
 ---
 
