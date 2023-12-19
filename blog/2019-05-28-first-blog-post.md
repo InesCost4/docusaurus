@@ -1,6 +1,6 @@
 ---
-slug: Reparacao-colisao-frontal
-title: Reparação de colisao frontal
+slug: first-blog-post
+title: First Blog Post
 authors:
   name: Gao Wei
   title: Docusaurus Core Team
