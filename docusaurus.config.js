@@ -98,15 +98,15 @@ const config = {
             ],
           },
           {
-            title : "Nossa Comunidade",
+            title : 'Nossa Comunidade',
             items: [
               {
-                label: "Contate-nos",
-                to: "/docs/contact",
+                label: 'Contate-nos',
+                to: '/docusaurus/docs/category/serviços',
               },
               {
-                label: "Serviços",
-                to: "/docs/Blog/category/serviços",
+                label: 'Serviços',
+                to: '/docusaurus/docs/category/serviços',
               }
             ],
           },
