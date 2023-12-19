@@ -10,9 +10,8 @@ Este projeto foi realizado no âmbito da unidade curricular de ambientes de dese
 
 O site é um exemplo de um website de uma oficina de automóveis, este foi criado a:
 
-- `2023-12-10`
+- `2023-12-09`
 
 O site é um exemplo de um website de uma oficina de automóveis, e terminado a:
 
 - `2023-12-18`
-
