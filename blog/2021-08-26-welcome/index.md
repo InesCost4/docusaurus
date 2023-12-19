@@ -6,7 +6,7 @@ authors: [ines, ricardo, thayla, afonso]
 
 [Tutoria da UAlg](https://tutoria.ualg.pt/)
 
-Este projeto foi realizado no âmbito da unidade curricular de ambientes de desenvolvimento colaborativo e visa a realização do terceiro trabalho prático.
+O presente projeto viza replicar o funcionamento de um website de uma oficina e foi realizado no âmbito da unidade curricular de ambientes de desenvolvimento colaborativo.
 
 O site é um exemplo de um website de uma oficina de automóveis, este foi criado a:
 
@@ -14,4 +14,5 @@ O site é um exemplo de um website de uma oficina de automóveis, este foi criad
 
 O site é um exemplo de um website de uma oficina de automóveis, e terminado a:
 
-- `2023-12-18`
+- `2023-12-19`
+
