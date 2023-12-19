@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[1888],{5242:a=>{a.exports=JSON.parse('{"label":"Lavagem_e_limpeza","permalink":"/docusaurus/blog/tags/lavagem-e-limpeza","allTagsPath":"/docusaurus/blog/tags","count":2}')}}]);
