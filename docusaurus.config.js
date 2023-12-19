@@ -95,17 +95,12 @@ const config = {
                 label: 'Sobre a Oficina',
                 to: '/docs/oficinaInfo',
               },
-              
-            ],
-          },
-          {
-            title: 'Nossa Comunidade',
-            items: [
               {
                 label: 'Contactos',
                 to: '/docs/contactos',
               },
-            ], 
+              
+            ],
           },
           {
             title: 'More',
