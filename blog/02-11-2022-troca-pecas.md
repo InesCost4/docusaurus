@@ -1,0 +1,15 @@
+---
+slug: troca-pecas
+title: Troca de Peças
+authors:
+  name: Amanda Kátia
+  title: Mecanica Prime - Cliente
+  url: https://bordalo.observador.pt/v2/q:84/rs:fill:1159:1157/c:1159:1157:nowe:615:82/plain/https://s3.observador.pt/wp-content/uploads/2021/12/17165411/whatsapp-image-2021-12-17-at-152612.jpeg
+  image_url: https://bordalo.observador.pt/v2/q:84/rs:fill:1159:1157/c:1159:1157:nowe:615:82/plain/https://s3.observador.pt/wp-content/uploads/2021/12/17165411/whatsapp-image-2021-12-17-at-152612.jpeg
+tags: [Carro, Lavagem_e_limpeza, lavagem, limpeza, Mecânica_Prime, Prime, Oficina, Loulé]
+---
+
+
+A Amanda Cátia precisava de uma lavagem para o seu carro. Antes disso, realizámos uma verificação completa e uma limpeza geral do veículo. Isso incluiu cuidados especiais para garantir que o carro ficasse impecável e pronto para rodar nas melhores condições possíveis. O objetivo era proporcionar uma experiência de condução agradável e garantir que o carro estivesse limpo e bem cuidado.
+
+![Imagem_limpeza](https://image.delti.com/simg/landingpages/carwash.jpg)
