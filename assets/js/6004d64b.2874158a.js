@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[2712],{3908:s=>{s.exports=JSON.parse('{"label":"Mec\xe2nica_Prime","permalink":"/docusaurus/blog/tags/mecanica-prime","allTagsPath":"/docusaurus/blog/tags","count":3}')}}]);
