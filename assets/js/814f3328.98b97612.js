@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Repara\xe7ao de colis\xe3o frontal","permalink":"/docusaurus/blog/colisao-frontal"},{"title":"Autores","permalink":"/docusaurus/blog/Autores"}]}')}}]);
