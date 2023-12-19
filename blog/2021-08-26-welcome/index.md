@@ -17,8 +17,3 @@ O site é um exemplo de um website de uma oficina de automóveis, e terminado a:
 
 - `2023-12-18`
 
-A blog post folder can be convenient to co-locate blog post images:
-
-Esta imagem é um teste aos links do markdown!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.

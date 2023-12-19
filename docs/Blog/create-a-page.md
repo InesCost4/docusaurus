@@ -5,7 +5,7 @@ sidebar_position: 2
 # Lavagem de Veiculos
 
 Oferecemos um **serviço premium** de lavagem de carros:
-# Lavagem de Veículos
+
 
 ![Carro Lavado](https://balconistasa.com/wp-content/uploads/2022/01/ttrImagem-1_-carro-lavado-com-esponja.jpg)
 
