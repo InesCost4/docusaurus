@@ -1,12 +1,12 @@
 ---
 slug: troca-oleo
-title: Troca de oleo
+title: Troca de óleo
 authors:
   name: Nuno Bruno
   title: Mecanica Prime - Cliente
   url: https://www.n-tv.pt/files/2022/01/nuno-homem-sa-696x457.jpg
   image_url: https://www.n-tv.pt/files/2022/01/nuno-homem-sa-696x457.jpg
-tags: [Carro, Manutençao, Mecânica_Prime, Prime, oficina, Albufeira]
+tags: [Carro, Manutençao, Mecânica_Prime, Prime, Oficina, Albufeira]
 ---
 
 O nosso cliente Nuno Bruno deslocou se até a nossa oficina para efetuar uma troca de óleo no seu carro.

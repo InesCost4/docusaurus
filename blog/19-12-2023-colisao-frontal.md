@@ -6,7 +6,7 @@ authors:
   title: Mecanica Prime - Cliente
   url: https://media.licdn.com/dms/image/D5603AQFePp8hjp2ipQ/profile-displayphoto-shrink_800_800/0/1699917508624?e=2147483647&v=beta&t=u-wUTI5WF1yCKRjocKeP3B_Dkb0Ryl-mAEqvcYPPtMg
   image_url: https://media.licdn.com/dms/image/D5603AQFePp8hjp2ipQ/profile-displayphoto-shrink_800_800/0/1699917508624?e=2147483647&v=beta&t=u-wUTI5WF1yCKRjocKeP3B_Dkb0Ryl-mAEqvcYPPtMg
-tags: [Carro, acidente, Mecânica_Prime, Prime, oficina, faro]
+tags: [Carro, Acidente, Mecânica_Prime, Prime, Oficina, Faro]
 ---
 
 O nosso cliente Asdrúbal Inácio teve um pequeno percalço com o seu carro. Bateu de frente contra protestantes do climaximo abalroando uns quantos.
