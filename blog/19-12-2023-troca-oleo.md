@@ -4,7 +4,7 @@ title: Troca de oleo
 authors:
   name: Nuno Bruno
   title: Mecanica Prime - Cliente
-  url: https://github.com/wgao19
+  url: https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/61e564110cf21a10a41a0acf/400.jpg
   image_url: https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/61e564110cf21a10a41a0acf/400.jpg
 tags: [Nuno, Manutençao]
 ---
