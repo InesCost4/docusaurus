@@ -102,7 +102,7 @@ const config = {
             items: [
               {
                 label: 'Contate-nos',
-                to: '/docusaurus/docs/category/serviços',
+                to: '/docusaurus/docs/contact',
               },
               {
                 label: 'Serviços',
