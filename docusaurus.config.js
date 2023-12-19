@@ -102,11 +102,11 @@ const config = {
             items: [
               {
                 label: "Contate-nos",
-                to: "/docs/contactos",
+                to: "/docs/contact",
               },
               {
                 label: "Serviços",
-                to: "/docs/Blog/category",
+                to: "/docs/Blog/category/serviços",
               }
             ],
           },
