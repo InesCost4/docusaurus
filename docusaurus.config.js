@@ -79,13 +79,7 @@ const config = {
           },
           {to: '/blog', label: 'Posts', position: 'left'},
           {
-            type: 'doc',
-            docId: 'contact',
-            position: 'left',
-            label: 'Contactos',        
-          },
-          {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/InesCost4/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -95,43 +89,42 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Conheça nossa oficina',
+            title: 'Sobre a Mecânica Prime',
             items: [
               {
-                label: 'Sobre a Oficina',
+                label: 'Oficina',
                 to: '/docs/oficinaInfo',
               },
-              
             ],
           },
           {
-            title: 'Nossa Comunidade',
+            title : 'Sobre Nós',
             items: [
               {
-                label: 'Contatos',
-                href: 'https://inescost4.github.io/docusaurus/docs/contact',
+                label: 'Contate-nos',
+                to: '/docusaurus/docs/contact',
               },
               {
                 label: 'Serviços',
-                href: 'https://inescost4.github.io/docusaurus/docs/category/servi%C3%A7os',
-              },
+                to: '/docusaurus/docs/category/serviços',
+              }
             ],
           },
           {
-            title: 'More',
+            title: 'Saiba Mais',
             items: [
               {
-                label: 'Blog',
+                label: 'Posts',
                 to: '/blog',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/InesCost4/docusaurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Mecânica Prime.`,
+        copyright: `Copyright © ${new Date().getFullYear()} by Mecânica Prime.`,
       },
       prism: {
         theme: lightCodeTheme,

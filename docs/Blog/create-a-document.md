@@ -1,34 +1,39 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# Reparação de Veiculos
+# Lavagem de Veiculos
 
-**Reparação de veículos** com excelência e confiança:
-# Escolha a Nossa Oficina para Reparação de Veículos
+Oferecemos um **serviço premium** de lavagem de carros:
 
-Na nossa oficina, dedicamo-nos a oferecer serviços de reparação de veículos de alta qualidade. Se o seu carro precisa de manutenção, reparo após um acidente ou qualquer outro serviço automotivo, estamos aqui para ajudar. Aqui estão algumas razões para escolher a nossa oficina:
 
-## Compromisso com a Qualidade
+![Carro Lavado](https://balconistasa.com/wp-content/uploads/2022/01/ttrImagem-1_-carro-lavado-com-esponja.jpg)
 
-Nossa equipe de mecânicos qualificados está comprometida em fornecer serviços de alta qualidade. Utilizamos peças de reposição confiáveis e as mais recentes tecnologias para garantir que seu veículo seja reparado com precisão.
+A lavagem de veículos é uma parte essencial da manutenção automotiva. Manter seu carro limpo não apenas melhora a aparência, mas também contribui para a durabilidade e valor de revenda do veículo.
 
-## Experiência e Confiabilidade
+## Benefícios da Lavagem Regular
 
-Com anos de experiência no setor automotivo, construímos uma reputação de confiabilidade e integridade. Você pode confiar em nós para lidar com todos os aspectos da reparação do seu veículo.
+1. **Preserva a Pintura:** Remover sujeira, poeira e detritos da superfície do carro ajuda a proteger a pintura contra danos.
+  
+2. **Previne a Oxidação:** A lavagem regular reduz o acúmulo de sal, lama e substâncias químicas, prevenindo a oxidação e a corrosão.
 
-## Atendimento Personalizado
+3. **Melhora a Visibilidade:** Limpar os vidros e os espelhos proporciona uma melhor visibilidade durante a condução.
 
-Entendemos que cada cliente e veículo são únicos. Oferecemos atendimento personalizado para garantir que suas necessidades específicas sejam atendidas. Estamos aqui para responder às suas perguntas e fornecer a melhor solução para o seu carro.
+4. **Ambiente Interno Mais Saudável:** A remoção de sujeira do interior do veículo cria um ambiente mais saudável para os ocupantes.
 
-## Preços Competitivos
+## Dicas para uma Lavagem Eficiente
 
-Oferecemos serviços de qualidade a preços competitivos. Nossa transparência nos orçamentos e a honestidade em nosso trabalho são fundamentais para garantir que você receba um excelente valor pelo seu investimento.
+- Use um sabão automotivo de qualidade para proteger a pintura.
+- Evite lavar o carro sob luz solar intensa para evitar manchas.
+- Utilize escovas macias e panos específicos para evitar arranhões.
 
-## Visite-nos Hoje!
+## Passos para uma Lavagem Básica
 
-**Agende Agora**
+1. Enxágue o carro para remover sujeira solta.
+2. Aplique o sabão automotivo com uma esponja ou luva de lavagem.
+3. Enxágue novamente, começando do topo para baixo.
+4. Seque o carro com um pano macio ou secador de ar.
 
-Estamos ansiosos para cuidar do seu veículo. Agende uma visita à nossa oficina hoje mesmo. Deixe-nos mostrar por que somos a escolha certa para a reparação do seu carro.
+Lembre-se, a lavagem regular do veículo não apenas mantém o carro bonito, mas também contribui para a sua longevidade e desempenho.
 
-*Escolha a confiança, escolha a nossa oficina para todos os seus serviços de reparação de veículos!* 
+*Mantenha o seu carro limpo!*
